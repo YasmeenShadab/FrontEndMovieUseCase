@@ -59,4 +59,4 @@ jobs:
           app-name: 'sampleappfront'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9EE751E2E12D4D9294E80827C5890136 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_253EDC66C7EC482A869E6400DF9350B1 }}
